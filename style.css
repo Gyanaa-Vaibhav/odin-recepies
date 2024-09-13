@@ -1,0 +1,13 @@
+*{
+    background-color: beige;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.heading{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
